@@ -33,7 +33,7 @@
 
 ## Lektionsrepon:
 * Måndag - FM: Repetition av föregående vecka och introduktion till React Router. Få [övning](https://github.com/Lexicon-Frontend-2024/router-exercises) i React Router. EM: Handledning.
-* Tisdag - FM: Handledning på React Router-övningen. EM: Introduktion till useContext och få övning i useContext som ska ha code reviews på på fredag.
+* Tisdag - FM: Handledning på React Router-övningen. EM: 
 * Onsdag - APL-sökardag
-* Torsdag - FM: Eget arbete EM: Repetition.
-* Fredag - FM: Code review av övning och repetition av veckan i en code along med alla veckans koncept. EM: Eget arbete.
+* Torsdag - FM: Eget arbete EM: Introduktion till useContext och få övning i useContext.
+* Fredag - FM: Code review av övning 3 i [React Router-övningarna](https://github.com/Lexicon-Frontend-2024/router-exercises) och repetition av veckan i en code along med alla veckans koncept. EM: Eget arbete.
