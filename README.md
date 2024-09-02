@@ -15,6 +15,8 @@
 * [State i React](https://app.pluralsight.com/ilx/video-courses/clips/9ae849e3-419e-43d2-b6c1-12b2f4bf3b68)
 
 #### Läsning:
+* [React Router](https://reactrouter.com/en/main)
+* [React Router tutorial](https://reactrouter.com/en/main/start/tutorial)
 * [TypeScript i React](https://react.dev/learn/typescript)
 * [JSX Intro](https://legacy.reactjs.org/docs/introducing-jsx.html)
 * [Förklaring på vissa filer som kommer i React-projekt](https://dev.to/vyan/understanding-vite-flow-and-structure-in-a-react-project-2e84)
