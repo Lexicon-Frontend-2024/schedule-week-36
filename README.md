@@ -32,6 +32,6 @@
 ## Lektionsrepon:
 * Måndag - FM: Repetition av föregående vecka och introduktion till React Router. Få övning i React Router. EM: Handledning.
 * Tisdag - FM: Handledning på React Router-övningen. EM: Introduktion till useContext och få övning i useContext som ska ha code reviews på på fredag.
-* Onsdag - FM: Eget arbete, EM: Repetition.
+* Onsdag - APL-sökardag
 * Torsdag - FM: Eget arbete EM: Repetition.
 * Fredag - FM: Code review av övning och repetition av veckan i en code along med alla veckans koncept. EM: Eget arbete.
