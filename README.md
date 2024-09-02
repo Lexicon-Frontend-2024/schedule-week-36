@@ -30,8 +30,8 @@
 * [React Hooks](https://docs.google.com/presentation/d/1M8o2BiXhyzWdk1LXbb8oy1U1T8ehCvlX1abRI1B8mvc/edit?usp=sharing)
 
 ## Lektionsrepon:
-* Måndag - FM: Repetition av föregående vecka och introduktion till useContext. Få övning i useContext. EM: Handledning.
-* Tisdag - FM: Handledning på useContext-övningen. EM: Introduktion till React Router och få övning i React Router som ska ha code reviews på på fredag.
+* Måndag - FM: Repetition av föregående vecka och introduktion till React Router. Få övning i React Router. EM: Handledning.
+* Tisdag - FM: Handledning på React Router-övningen. EM: Introduktion till useContext och få övning i useContext som ska ha code reviews på på fredag.
 * Onsdag - FM: Eget arbete, EM: Repetition.
 * Torsdag - FM: Eget arbete EM: Repetition.
-* Fredag - FM: Code review av övning och repetition av veckan i en code along med alla veckans koncept. EM: Eget arbete
+* Fredag - FM: Code review av övning och repetition av veckan i en code along med alla veckans koncept. EM: Eget arbete.
