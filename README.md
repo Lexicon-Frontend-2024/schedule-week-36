@@ -25,12 +25,12 @@
 * [Förklaring på alla himla filer som kommer i React-projekt](https://www.youtube.com/watch?v=VfhRDGhAFi0)
 
 ## Övningar:
-* 
+* [React Router-övningar](https://github.com/Lexicon-Frontend-2024/router-exercises)
 ## Slides:
 * [React Hooks](https://docs.google.com/presentation/d/1M8o2BiXhyzWdk1LXbb8oy1U1T8ehCvlX1abRI1B8mvc/edit?usp=sharing)
 
 ## Lektionsrepon:
-* Måndag - FM: Repetition av föregående vecka och introduktion till React Router. Få övning i React Router. EM: Handledning.
+* Måndag - FM: Repetition av föregående vecka och introduktion till React Router. Få [övning](https://github.com/Lexicon-Frontend-2024/router-exercises) i React Router. EM: Handledning.
 * Tisdag - FM: Handledning på React Router-övningen. EM: Introduktion till useContext och få övning i useContext som ska ha code reviews på på fredag.
 * Onsdag - APL-sökardag
 * Torsdag - FM: Eget arbete EM: Repetition.
