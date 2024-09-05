@@ -28,7 +28,7 @@
 
 ## Övningar:
 * [React Router-övningar](https://github.com/Lexicon-Frontend-2024/router-exercises)
-* [Intro till useContext](https://github.com/Lexicon-Frontend-2024/useContext-i-react)
+* [Intro till useContext](https://github.com/Lexicon-Frontend-2024/intro-till-usecontext)
 * [Emoji Switcher App](https://github.com/Lexicon-Frontend-2024/usecontext-ovning)
 ## Slides:
 * [React Hooks](https://docs.google.com/presentation/d/1M8o2BiXhyzWdk1LXbb8oy1U1T8ehCvlX1abRI1B8mvc/edit?usp=sharing)
